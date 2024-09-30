@@ -1,0 +1,22 @@
+{
+    "response": [
+        {
+            "title": "Urban Air Quality Monitoring in Monterrey",
+            "description": "In the 'San Nicolás' neighborhood...",
+            "imageName": "project1",
+            "date": "28/08/2024",
+            "userImageName": "user1",
+            "userName": "Juan Perez",
+            "participants": 230
+        },
+        {
+            "title": "Heat Wave Alert in Monterrey",
+            "description": "Monterrey has been experiencing...",
+            "imageName": "project2",
+            "date": "19/08/2024",
+            "userImageName": "user2",
+            "userName": "Paulina Caballero",
+            "participants": 230
+        }
+    ]
+}
